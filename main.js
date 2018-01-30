@@ -7,9 +7,9 @@ var anotherArr = getEvens(newArr);
 
 var thirdArr = double(anotherArr);
 
-var maximum = maximum(thirdArr);
+var maximum = maximum(thirdArr);//This will get the maximum function in the array thirdArr
 
-var minimum = minimum(thirdArr);
+var minimum = minimum(thirdArr);//This will get the minimum function in the array thirdArr
 
 console.log(maximum);
 console.log(minimum);
